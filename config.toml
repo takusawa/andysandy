@@ -1,0 +1,8 @@
+# baseURL = "http://andysandy.com/"
+languageCode = "ja-JP"
+title = "andy sandy blog"
+
+theme = "hugo-phlat-theme"
+baseurl = "https://takusawa.github.io/andysandy"
+canonifyurls = true
+hasCJKLanguage = true
